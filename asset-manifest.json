@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/online-minegame/static/css/main.9845bfe3.css",
+    "main.js": "/online-minegame/static/js/main.6a55674c.js",
+    "static/js/787.a8d731f4.chunk.js": "/online-minegame/static/js/787.a8d731f4.chunk.js",
+    "index.html": "/online-minegame/index.html",
+    "main.9845bfe3.css.map": "/online-minegame/static/css/main.9845bfe3.css.map",
+    "main.6a55674c.js.map": "/online-minegame/static/js/main.6a55674c.js.map",
+    "787.a8d731f4.chunk.js.map": "/online-minegame/static/js/787.a8d731f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9845bfe3.css",
+    "static/js/main.6a55674c.js"
+  ]
+}
